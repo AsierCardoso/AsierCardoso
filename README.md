@@ -50,7 +50,7 @@ introduce_myself
 - 📈 **7+ business metrics** for strategic insights
 - 🏆 **Identified pricing-satisfaction correlations**
 
-### 🔬 [Molecular Dynamics Analytics](https://github.com/your-username/molecular-dynamics)
+### 🔬 [Molecular Dynamics Analytics](https://asiercardoso.github.io/molecular-dynamics-secure.html)
 **Automated DNA Assembly Simulation Analysis**
 - ⚡ **50+ simulation conditions** processed automatically
 - 📊 **8 visualization types** for comprehensive analysis
