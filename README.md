@@ -85,18 +85,6 @@ introduce_myself
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsierCardoso&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
-
-## 📊 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyonight&hide_border=true" alt="Activity Graph" />
-</div>
-
 ## 🎯 Current Focus
 
 - 🔬 **Molecular Dynamics Research** at KIT
