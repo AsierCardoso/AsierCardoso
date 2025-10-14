@@ -57,7 +57,7 @@ introduce_myself
 - 🔬 **Green-Kubo relations** for rheological analysis
 - 📚 **Publication-ready** visualizations
 
-### 🛒 [E-Commerce Web Application](https://github.com/AsierCardoso/tienda-dawe-react)
+### 🛒 [E-Commerce Web Application](https://github.com/AsierCardoso/E-Commerce_Web_Application)
 **Full-Stack MERN Platform with Express Sessions**
 - 🚀 **Complete CRUD operations** for product management
 - 🔐 **Secure authentication** with Express sessions and user management
