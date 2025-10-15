@@ -43,19 +43,20 @@ introduce_myself
 
 ## 🚀 Featured Projects
 
-### 📊 [Customer Sentiment Analysis](https://github.com/your-username/sentiment-analysis)
+### 📊 [Customer Sentiment Analysis](https://asiercardoso.github.io/sentiment-analysis-english.html)
 **Airbnb Review Analysis with Competitive Benchmarking**
-- 🎯 **85% accuracy** in sentiment classification
-- 🤖 **2 ML models** (Naive Bayes + Neural Networks)
-- 📈 **7+ business metrics** for strategic insights
-- 🏆 **Identified pricing-satisfaction correlations**
+- 🎯 **91% precision** using Random Forest and generative AI models (Ollama Gemma2:2b)
+- 🤖 **Advanced ML pipeline** with TF-IDF, Naive Bayes, and neural networks
+- 📈 **Business intelligence insights** for pricing optimization and market analysis
+- 🏆 **Identified quality-price satisfaction correlations** with actionable recommendations
 
 ### 🔬 [Molecular Dynamics Analytics](https://asiercardoso.github.io/molecular-dynamics-secure.html)
-**Automated DNA Assembly Simulation Analysis**
-- ⚡ **50+ simulation conditions** processed automatically
-- 📊 **8 visualization types** for comprehensive analysis
-- 🔬 **Green-Kubo relations** for rheological analysis
-- 📚 **Publication-ready** visualizations
+**Automated DNA Assembly Simulation Analysis with Data Pipeline Automation**
+- ⚡ **50+ simulation conditions** processed automatically with ETL pipelines
+- 📊 **8 visualization types** for comprehensive rheological analysis
+- 🔬 **Green-Kubo relations** for mechanical properties calculation
+- 📚 **Publication-ready** visualizations with statistical validation
+- 🔄 **Automated quality checks** and cross-scenario comparison tools
 
 ### 🛒 [E-Commerce Web Application](https://github.com/AsierCardoso/E-Commerce_Web_Application)
 **Full-Stack MERN Platform with Express Sessions**
@@ -67,22 +68,28 @@ introduce_myself
 ### ⏰ [SHAREYOURTIME Android App](https://github.com/AsierCardoso/SHAREYOURTIME)
 **Comprehensive Time Management & Productivity App**
 - 🚀 **Full-featured time management** with alarms, timers, and world clock
-- 🔐 **Firebase authentication** and user profile management
+- 🔐 **Firebase authentication** and user profile management (MainV2 branch)
 - 🗺️ **Google Maps integration** with location-based features
 - 📱 **Modern Android architecture** with Jetpack components
-
-### 🔧 [Data Pipeline Automation](https://github.com/your-username/data-pipelines)
-**ETL & Business Intelligence Solutions**
-- ⚡ **80% reduction** in manual analysis time
-- 🔄 **Automated quality checks** and error handling
-- 📊 **Standardized reporting** dashboards
-- 🎯 **Cross-scenario comparison** tools
+- 🔄 **Two versions available**: Simplified and full-featured with Firebase
 
 ## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AsierCardoso&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsierCardoso&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AsierCardoso&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+</div>
+
+## 📊 Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsierCardoso&theme=tokyonight&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🎯 Current Focus
@@ -101,7 +108,7 @@ introduce_myself
   <a href="https://linkedin.com/in/asiercardoso">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://asier-cardoso.github.io">
+  <a href="https://asiercardoso.github.io">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
   </a>
 </div>
