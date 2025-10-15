@@ -80,17 +80,6 @@ introduce_myself
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsierCardoso&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AsierCardoso&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
-
-## 📊 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsierCardoso&theme=tokyonight&hide_border=true" alt="Activity Graph" />
-</div>
 
 ## 🎯 Current Focus
 
@@ -120,19 +109,7 @@ introduce_myself
 - 🌍 **Languages**: Spanish (Native), English (C1)
 - 💼 **Availability**: Full-time from September 2026
 
-## 🎨 Fun Fact
 
-```python
-def my_approach():
-    while True:
-        data = collect_data()
-        insights = analyze(data)
-        impact = implement(insights)
-        if impact > 0:
-            return "Success! 🚀"
-        else:
-            optimize_approach()
-```
 
 ---
 
