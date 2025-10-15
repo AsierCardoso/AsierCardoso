@@ -75,7 +75,7 @@ introduce_myself
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsierCardoso&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
