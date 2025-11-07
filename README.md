@@ -50,13 +50,15 @@ introduce_myself
 - 📈 **Business intelligence insights** for pricing optimization and market analysis
 - 🏆 **Identified quality-price satisfaction correlations** with actionable recommendations
 
-### 🔬 [Molecular Dynamics Analytics](https://asiercardoso.github.io/molecular-dynamics-secure.html)
-**Automated DNA Assembly Simulation Analysis with Data Pipeline Automation**
-- ⚡ **50+ simulation conditions** processed automatically with ETL pipelines
-- 📊 **8 visualization types** for comprehensive rheological analysis
-- 🔬 **Green-Kubo relations** for mechanical properties calculation
-- 📚 **Publication-ready** visualizations with statistical validation
-- 🔄 **Automated quality checks** and cross-scenario comparison tools
+### 🔬 [Complex Systems Analytics & ML](https://asiercardoso.github.io/molecular-dynamics-ml.html)
+**Machine Learning Pipeline for Rapid Parameter Space Exploration in DNA Assembly Simulations**
+- 🚀 **10,000× speedup** reducing parameter exploration from 6 months to 1 day
+- 🎯 **6.12% mean error** with **R² > 99%** in cross-validation (below 7.98% intrinsic statistical variation)
+- 📊 **61 parameter conditions** analyzed with automated ETL pipelines and statistical validation
+- 🔬 **Green-Kubo relations** for rheological analysis via stress autocorrelation functions (SACF)
+- 🤖 **Gradient Boosting ML** with physics-informed feature engineering for predictive modeling
+- 📚 **Publication-ready** visualizations with comprehensive statistical validation
+- 🔄 **Leave-One-Out cross-validation** on 35 validated conditions demonstrating performance at fundamental limit of predictability
 
 ### 🛒 [E-Commerce Web Application](https://github.com/AsierCardoso/E-Commerce_Web_Application)
 **Full-Stack MERN Platform with Express Sessions**
